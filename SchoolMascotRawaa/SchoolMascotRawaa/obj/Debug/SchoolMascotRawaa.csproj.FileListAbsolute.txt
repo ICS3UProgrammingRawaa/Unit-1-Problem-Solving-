@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\SchoolMascotRawaa\SchoolMascotRawaa\bin\Debug\SchoolMascotRawaa.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\SchoolMascotRawaa\SchoolMascotRawaa\bin\Debug\SchoolMascotRawaa.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\SchoolMascotRawaa\SchoolMascotRawaa\bin\Debug\SchoolMascotRawaa.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\SchoolMascotRawaa\SchoolMascotRawaa\obj\Debug\SchoolMascotRawaa.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\SchoolMascotRawaa\SchoolMascotRawaa\obj\Debug\SchoolMascotRawaa.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\SchoolMascotRawaa\SchoolMascotRawaa\obj\Debug\SchoolMascotRawaa.frmSchoolMascot.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\SchoolMascotRawaa\SchoolMascotRawaa\obj\Debug\SchoolMascotRawaa.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\SchoolMascotRawaa\SchoolMascotRawaa\obj\Debug\SchoolMascotRawaa.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\SchoolMascotRawaa\SchoolMascotRawaa\obj\Debug\SchoolMascotRawaa.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\SchoolMascotRawaa\SchoolMascotRawaa\obj\Debug\SchoolMascotRawaa.pdb
