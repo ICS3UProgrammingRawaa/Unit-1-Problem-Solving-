@@ -109,7 +109,7 @@
             // mniExit
             // 
             this.mniExit.Name = "mniExit";
-            this.mniExit.Size = new System.Drawing.Size(180, 22);
+            this.mniExit.Size = new System.Drawing.Size(93, 22);
             this.mniExit.Text = "Exit";
             // 
             // lblPerimeter
@@ -125,20 +125,22 @@
             // lblAreaAnswer
             // 
             this.lblAreaAnswer.AutoSize = true;
+            this.lblAreaAnswer.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAreaAnswer.Location = new System.Drawing.Point(418, 365);
             this.lblAreaAnswer.Name = "lblAreaAnswer";
-            this.lblAreaAnswer.Size = new System.Drawing.Size(13, 13);
+            this.lblAreaAnswer.Size = new System.Drawing.Size(73, 23);
             this.lblAreaAnswer.TabIndex = 7;
-            this.lblAreaAnswer.Text = "?";
+            this.lblAreaAnswer.Text = "???????";
             // 
             // lblPerimeterAnswer
             // 
             this.lblPerimeterAnswer.AutoSize = true;
+            this.lblPerimeterAnswer.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPerimeterAnswer.Location = new System.Drawing.Point(418, 307);
             this.lblPerimeterAnswer.Name = "lblPerimeterAnswer";
-            this.lblPerimeterAnswer.Size = new System.Drawing.Size(13, 13);
+            this.lblPerimeterAnswer.Size = new System.Drawing.Size(73, 23);
             this.lblPerimeterAnswer.TabIndex = 8;
-            this.lblPerimeterAnswer.Text = "?";
+            this.lblPerimeterAnswer.Text = "???????";
             // 
             // lblArea
             // 
@@ -154,6 +156,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::PerAreaRawaa.Properties.Resources.AdobeStock_100000042_e1563305717660_686x371;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.lblArea);
             this.Controls.Add(this.lblPerimeterAnswer);
@@ -168,6 +172,7 @@
             this.MainMenuStrip = this.mnuFile;
             this.Name = "frmPerArea";
             this.Text = "Perimeter and Area of a Rectangle By Rawaa";
+            this.Load += new System.EventHandler(this.FrmPerArea_Load);
             this.mnuFile.ResumeLayout(false);
             this.mnuFile.PerformLayout();
             this.ResumeLayout(false);
