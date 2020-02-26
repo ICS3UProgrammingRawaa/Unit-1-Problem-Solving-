@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\CircumferenceRawaa\CircumferenceRawaa\obj\Debug\CircumferenceRawaa.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\CircumferenceRawaa\CircumferenceRawaa\obj\Debug\CircumferenceRawaa.frmCircumference.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\CircumferenceRawaa\CircumferenceRawaa\obj\Debug\CircumferenceRawaa.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\CircumferenceRawaa\CircumferenceRawaa\obj\Debug\CircumferenceRawaa.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\CircumferenceRawaa\CircumferenceRawaa\obj\Debug\CircumferenceRawaa.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\CircumferenceRawaa\CircumferenceRawaa\bin\Debug\CircumferenceRawaa.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\CircumferenceRawaa\CircumferenceRawaa\bin\Debug\CircumferenceRawaa.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\CircumferenceRawaa\CircumferenceRawaa\bin\Debug\CircumferenceRawaa.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\CircumferenceRawaa\CircumferenceRawaa\obj\Debug\CircumferenceRawaa.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\CircumferenceRawaa\CircumferenceRawaa\obj\Debug\CircumferenceRawaa.pdb

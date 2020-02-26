@@ -41,7 +41,7 @@ namespace PerAreaRawaa
 
             // insert the area and the perimeter into their respective labels 
             this.lblAreaAnswer.Text = Convert.ToString(area) + " squared meters ";
-            this.lblPerimeterAnswer.Text = Convert.ToString(perimeter) + "m";
+            this.lblPerimeterAnswer.Text = Convert.ToString(perimeter) + " m ";
 
             // display the perimeter and area labels with their respective answers
             this.lblArea.Show();
