@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\PizzaCostRawaa\PizzaCostRawaa\bin\Debug\PizzaCostRawaa.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\PizzaCostRawaa\PizzaCostRawaa\bin\Debug\PizzaCostRawaa.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\PizzaCostRawaa\PizzaCostRawaa\bin\Debug\PizzaCostRawaa.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\PizzaCostRawaa\PizzaCostRawaa\obj\Debug\PizzaCostRawaa.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\PizzaCostRawaa\PizzaCostRawaa\obj\Debug\PizzaCostRawaa.frmPizzaCost.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\PizzaCostRawaa\PizzaCostRawaa\obj\Debug\PizzaCostRawaa.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\PizzaCostRawaa\PizzaCostRawaa\obj\Debug\PizzaCostRawaa.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\PizzaCostRawaa\PizzaCostRawaa\obj\Debug\PizzaCostRawaa.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\PizzaCostRawaa\PizzaCostRawaa\obj\Debug\PizzaCostRawaa.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Unit 1 (Problem Solving)\PizzaCostRawaa\PizzaCostRawaa\obj\Debug\PizzaCostRawaa.pdb
